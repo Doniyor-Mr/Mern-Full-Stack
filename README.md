@@ -1,2 +1,2 @@
-# react-api
- data acquisition
+# full-stack-app
+NodeJS ExpressJS MongoDB
